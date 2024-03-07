@@ -1,0 +1,4 @@
+{
+  "GITHUB_USERS_API": "https://api.github.com/users",
+  "GITHUB_USER_API": "https://api.github.com/users/__USERNAME__"
+}

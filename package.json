@@ -1,0 +1,25 @@
+{
+  "name": "@mohammadsonu2004/github-users-api-wrapper",
+  "version": "1.0.4",
+  "description": "A wrapper NPM package for public Github users api. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonukiwi/github-users-api-wrapper.git"
+  },
+  "keywords": [
+    "GithubUsersAPI"
+  ],
+  "author": "Mohammad Sonu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonukiwi/github-users-api-wrapper/issues"
+  },
+  "homepage": "https://github.com/sonukiwi/github-users-api-wrapper#readme",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
